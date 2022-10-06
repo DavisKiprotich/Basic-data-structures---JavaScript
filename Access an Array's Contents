@@ -1,0 +1,5 @@
+let myArray = ["a", "b", "c", "d"];
+// Only change code at position "b" below this line
+myArray[1] = "I love programming"
+
+console.log(myArray);
